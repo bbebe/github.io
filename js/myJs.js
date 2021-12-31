@@ -1,14 +1,14 @@
 const textConfig = {
     text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn nói với cậu.",
+  text2: "Tớ có điều này muốn nói với cậu",
   text3: "Cậu đã sẵn sàng chưa?",
   text4: "",
-  text5: "chưa",
-  text6: "rồi !!!",
+  text5: "chưa đâuuuuuu",
+  text6: "rùiiiiiiiiiiiiiii !!!",
   text7: "2021 của cậu thế nào?",
   text8: "gửi cậu nè",
   text9: "tớ đã rất cố gắng!",
-  text10: "2021 cậu đã rất cố gắng rồi",
+  text10: "tớ tự hào về cậu",
   text11:
     "Cảm ơn cậu rất nhiều vì đã ở cùng Fercaline suốt năm 2021. Chúc cậu 2022 thật vui vẻ và hạnh phúc nha!",
   text12: "2022 sẽ yêu thương tớ!",
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "https://www.facebook.com/fercalineprj/";
           },
         });
       }
