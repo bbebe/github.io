@@ -7,7 +7,7 @@ const textConfig = {
   text6: "rùiiiiiiiiiiiiiii !!!",
   text7: "2021 của cậu thế nào?",
   text8: "gửi cậu nè",
-  text9: "tớ đã rất cố gắng!",
+  text9: "tớ đã rất cố gắng rồi!",
   text10: "tớ tự hào về cậu",
   text11:
     "Cảm ơn cậu rất nhiều vì đã ở cùng Fercaline suốt năm 2021. Chúc cậu 2022 thật vui vẻ và hạnh phúc nha!",
